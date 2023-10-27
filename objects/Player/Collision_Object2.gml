@@ -26,17 +26,32 @@ x = x-20;
 /// @DnDSaveInfo : "soundid" "Sound1"
 audio_play_sound(Sound1, 0, 0, 1.0, undefined, 1.0);
 
-/// @DnDAction : YoYo Games.Drawing.Draw_Sprites_Stacked
+/// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
-/// @DnDHash : 07E23EFD
-/// @DnDArgument : "x_relative" "1"
-/// @DnDArgument : "y_relative" "1"
-/// @DnDArgument : "sprite" "heart"
-/// @DnDArgument : "number" "6"
-/// @DnDSaveInfo : "sprite" "heart"
-var l07E23EFD_0 = sprite_get_width(heart);
-var l07E23EFD_1 = 0;
-for(var l07E23EFD_2 = 6; l07E23EFD_2 > 0; --l07E23EFD_2) {
-	draw_sprite(heart, 0, x + 0 + l07E23EFD_1, y + 0);
-	l07E23EFD_1 += l07E23EFD_0;
+/// @DnDHash : 3AEFFB5C
+/// @DnDArgument : "code" "/// @description Execute Code$(13_10)$(13_10)time_source = time_source_create(time_source_game,1,time_source_units_seconds,function()$(13_10){$(13_10)	sprite_index = Sprite1;$(13_10)}$(13_10));$(13_10)sprite_index = Blinking;$(13_10)if (currentObject == Heart4) {$(13_10)        currentObject.visible = false;$(13_10)		currentObject = Heart3$(13_10)    } $(13_10)else if (currentObject == Heart3) {$(13_10)        currentObject.visible = false;$(13_10)		currentObject = Heart2$(13_10)    }$(13_10)else if (currentObject == Heart2) {$(13_10)        currentObject.visible = false;$(13_10)		currentObject = Heart1$(13_10)    }$(13_10)else if (currentObject == Heart1) {$(13_10)        currentObject.visible = false;$(13_10)		room_goto(GameOver);$(13_10)    }$(13_10)time_source_start(time_source)$(13_10)"
+/// @description Execute Code
+
+time_source = time_source_create(time_source_game,1,time_source_units_seconds,function()
+{
+	sprite_index = Sprite1;
 }
+);
+sprite_index = Blinking;
+if (currentObject == Heart4) {
+        currentObject.visible = false;
+		currentObject = Heart3
+    } 
+else if (currentObject == Heart3) {
+        currentObject.visible = false;
+		currentObject = Heart2
+    }
+else if (currentObject == Heart2) {
+        currentObject.visible = false;
+		currentObject = Heart1
+    }
+else if (currentObject == Heart1) {
+        currentObject.visible = false;
+		room_goto(GameOver);
+    }
+time_source_start(time_source)
