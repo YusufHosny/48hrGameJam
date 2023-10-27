@@ -37,7 +37,9 @@
   "resources": [
     {"id":{"name":"Player","path":"objects/Player/Player.yy",},},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
+    {"id":{"name":"heart","path":"sprites/heart/heart.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Sound1","path":"sounds/Sound1/Sound1.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
   ],
