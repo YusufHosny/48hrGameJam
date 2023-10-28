@@ -10,7 +10,5 @@ for(i = 0; i < hp; i++) {
 	ypos = 5;
 	
 	draw_sprite(sHeart, -1, xpos, ypos);
-	
-
 }
 

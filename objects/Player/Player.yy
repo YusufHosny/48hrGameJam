@@ -36,5 +36,5 @@
     "path": "sprites/sPlayer/sPlayer.yy",
   },
   "spriteMaskId": null,
-  "visible": false,
+  "visible": true,
 }
