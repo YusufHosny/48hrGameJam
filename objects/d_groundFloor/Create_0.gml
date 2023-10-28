@@ -1,2 +1,2 @@
-nextRoom = groundFloor;
+nextRoom = spiral1;
 
