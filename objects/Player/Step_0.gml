@@ -18,11 +18,14 @@ if(sign(_ysp) == 1) dir = FACEDOWN;
 else if(sign(_ysp) == -1) dir = FACEUP;
 
 
-// check collisions and update positions
-playerCollision();
+if(!playerLocked) { 
+	
+	// check collisions and update positions
+	playerCollision();
 
-// check for interact events
-playerInteract();
+	// check for interact events
+	playerInteract();
+}
 
 // invulnerability check/ decrease
 if(iFrames > 0) {

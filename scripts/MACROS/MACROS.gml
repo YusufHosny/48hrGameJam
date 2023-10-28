@@ -10,6 +10,6 @@ function MACROS(){
 	
 	#macro CARDINAL_DIR round(direction/90)
     
-    #macro RESOLUTION_W 1366
-    #macro RESOLUTION_H 768
+    #macro RESOLUTION_W 320
+    #macro RESOLUTION_H 214
 }

@@ -11,8 +11,8 @@ x2Target = RESOLUTION_W;
 lerpProgress =0;
 textProgress =0;
 
-message = "OBOONGA IN DA HOUSE";
-background =0;
+//message = "OBOONGA IN DA HOUSE";
+//background =0;
 
 
 

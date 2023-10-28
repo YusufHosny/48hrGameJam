@@ -18,4 +18,5 @@ dir = FACELEFT;
 hp = 4;
 iFrames = 0;
 
-// darkness surface TODO
+// textbox lock
+playerLocked = false;
