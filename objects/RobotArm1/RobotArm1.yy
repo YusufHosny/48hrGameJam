@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Monster",
+  "name": "RobotArm1",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
@@ -32,8 +32,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "MOnsterSkin",
-    "path": "sprites/MOnsterSkin/MOnsterSkin.yy",
+    "name": "RobotArm1_Skin",
+    "path": "sprites/RobotArm1_Skin/RobotArm1_Skin.yy",
   },
   "spriteMaskId": null,
   "visible": true,
