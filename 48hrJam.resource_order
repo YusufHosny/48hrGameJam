@@ -18,6 +18,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"sBackground","order":6,"path":"sprites/sBackground/sBackground.yy",},
+    {"name":"transitionToRoom","order":8,"path":"scripts/transitionToRoom/transitionToRoom.yy",},
     {"name":"MACROS","order":2,"path":"scripts/MACROS/MACROS.yy",},
     {"name":"inventoryItem","order":2,"path":"objects/inventoryItem/inventoryItem.yy",},
     {"name":"playerCollision","order":1,"path":"scripts/playerCollision/playerCollision.yy",},
@@ -33,6 +34,7 @@
     {"name":"sHeart","order":7,"path":"sprites/sHeart/sHeart.yy",},
     {"name":"sMonke","order":3,"path":"sprites/sMonke/sMonke.yy",},
     {"name":"itemBanana","order":3,"path":"objects/itemBanana/itemBanana.yy",},
+    {"name":"transition","order":10,"path":"objects/transition/transition.yy",},
     {"name":"sPlayerBlink","order":10,"path":"sprites/sPlayerBlink/sPlayerBlink.yy",},
   ],
 }
