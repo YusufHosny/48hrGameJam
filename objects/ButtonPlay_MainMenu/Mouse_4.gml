@@ -1,1 +1,1 @@
-switchRoom(groundFloor);
+switchRoom(floor4);
