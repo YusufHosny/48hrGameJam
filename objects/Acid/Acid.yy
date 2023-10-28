@@ -1,15 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Heart3",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,},
-  ],
+  "name": "Acid",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Hearts",
-    "path": "folders/Objects/Hearts.yy",
+    "name": "Player",
+    "path": "folders/Objects/Player.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -28,9 +26,12 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "HeartSkin",
-    "path": "sprites/HeartSkin/HeartSkin.yy",
+    "name": "AcidSkin",
+    "path": "sprites/AcidSkin/AcidSkin.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "AcidSkin",
+    "path": "sprites/AcidSkin/AcidSkin.yy",
+  },
   "visible": true,
 }

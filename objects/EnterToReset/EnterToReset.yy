@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite5",
-    "path": "sprites/Sprite5/Sprite5.yy",
+    "name": "ResetSkin",
+    "path": "sprites/ResetSkin/ResetSkin.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite4",
-    "path": "sprites/Sprite4/Sprite4.yy",
+    "name": "HeartSkin",
+    "path": "sprites/HeartSkin/HeartSkin.yy",
   },
   "spriteMaskId": null,
   "visible": true,
