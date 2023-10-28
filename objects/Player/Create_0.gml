@@ -1,5 +1,5 @@
 // speed
-sp = 10;
+sp = 7;
 
 // held item
 itemHeld = noItemId;
