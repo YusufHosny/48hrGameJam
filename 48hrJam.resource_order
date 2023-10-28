@@ -41,6 +41,7 @@
     {"name":"Monster","order":5,"path":"objects/Monster/Monster.yy",},
     {"name":"acidBottle","order":4,"path":"objects/acidBottle/acidBottle.yy",},
     {"name":"d_groundFloor","order":1,"path":"objects/d_groundFloor/d_groundFloor.yy",},
+    {"name":"sBoxB","order":1,"path":"sprites/sBoxB/sBoxB.yy",},
     {"name":"transition","order":3,"path":"objects/transition/transition.yy",},
     {"name":"resetButton","order":1,"path":"objects/resetButton/resetButton.yy",},
     {"name":"MainMenuButton","order":2,"path":"objects/MainMenuButton/MainMenuButton.yy",},
