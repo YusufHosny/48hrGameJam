@@ -106,7 +106,6 @@
     {"id":{"name":"MainMenu","path":"rooms/MainMenu/MainMenu.yy",},},
     {"id":{"name":"itemBanana","path":"objects/itemBanana/itemBanana.yy",},},
     {"id":{"name":"RobotArm1","path":"objects/RobotArm1/RobotArm1.yy",},},
-    {"id":{"name":"Monster","path":"objects/Monster/Monster.yy",},},
     {"id":{"name":"switchRoom","path":"scripts/switchRoom/switchRoom.yy",},},
     {"id":{"name":"acidBottle","path":"objects/acidBottle/acidBottle.yy",},},
     {"id":{"name":"d_groundFloor","path":"objects/d_groundFloor/d_groundFloor.yy",},},
