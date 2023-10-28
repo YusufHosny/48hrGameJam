@@ -10,8 +10,8 @@ function MACROS(){
 	
 	#macro CARDINAL_DIR round(direction/90)
     
-    #macro RESOLUTION_W 640
-    #macro RESOLUTION_H 480
+    #macro RESOLUTION_W 320
+    #macro RESOLUTION_H 240
 	#macro DARKNESS 0.7
 	
 	#macro PLAYERNAME "GIOVANNI"

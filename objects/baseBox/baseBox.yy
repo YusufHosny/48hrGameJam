@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sBox",
-    "path": "sprites/sBox/sBox.yy",
+    "name": "sBoxB",
+    "path": "sprites/sBoxB/sBoxB.yy",
   },
   "spriteMaskId": null,
   "visible": true,
