@@ -30,7 +30,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "sSign",
+    "path": "sprites/sSign/sSign.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
