@@ -23,3 +23,11 @@ playerCollision();
 
 // check for interact events
 playerInteract();
+
+// invulnerability check/ decrease
+if(iFrames > 0) {
+	iFrames--;
+}
+else {
+	sprite_index = sPlayer;
+}

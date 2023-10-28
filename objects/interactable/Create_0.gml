@@ -1,5 +1,5 @@
 itemNeededId = noItemId;
 
-consume = function(_itemId) {
+interact = function(_itemId) {
 	// consume item here;
 }

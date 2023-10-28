@@ -12,8 +12,8 @@
     "path": "folders/Objects.yy",
   },
   "parentObjectId": {
-    "name": "itemConsumer",
-    "path": "objects/itemConsumer/itemConsumer.yy",
+    "name": "interactable",
+    "path": "objects/interactable/interactable.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,

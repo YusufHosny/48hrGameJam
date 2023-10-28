@@ -14,4 +14,8 @@ _ysp = 0;
 // direction facing
 dir = FACELEFT;
 
+// health
+hp = 4;
+iFrames = 0;
+
 // darkness surface TODO

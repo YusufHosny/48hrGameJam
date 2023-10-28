@@ -1,5 +1,8 @@
 itemNeededId = bananaId;
 
-consume = function() {
-	sprite_index = sMonkeBanana;
+interact = function(player) {
+	if(itemNeededId == player.itemHeld) {
+		sprite_index = sMonkeBanana;
+		player.itemHeld = noItemId;
+	}
 }

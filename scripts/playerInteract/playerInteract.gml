@@ -37,63 +37,51 @@ function playerInteract(){
 		switch(dir) {
 			case FACELEFT:
 				// check for item
-				_checkLeft(itemNull, function(item) {
+				_checkLeft(inventoryItem, function(item) {
 				itemHeld = item.itemId;
 				instance_destroy(item);
 				});
 			
-				// check for box (specific item consumer)
-				_checkLeft(itemConsumer, function(iConsumer) {
-				if(iConsumer.itemNeededId == itemHeld) {
-					iConsumer.consume(itemHeld);
-					itemHeld = noItemId;
-				}
+				// check for interactable (specific item consumer)
+				_checkLeft(interactable, function(iactable) {
+					iactable.interact(self);
 				});
 				
 			
 				break;
 				
 			case FACERIGHT:
-				_checkRight(itemNull, function(item) {
+				_checkRight(inventoryItem, function(item) {
 				itemHeld = item.itemId;
 				instance_destroy(item);
 				});
 				
-				_checkRight(itemConsumer, function(iConsumer) {
-				if(iConsumer.itemNeededId == itemHeld) {
-					iConsumer.consume(itemHeld);
-					itemHeld = noItemId;
-				}
+				_checkRight(interactable, function(iactable) {
+					iactable.interact(self);
 				});
 				
 				break;
 				
 			case FACEUP:
-				_checkUp(itemNull, function(item) {
+				_checkUp(inventoryItem, function(item) {
 				itemHeld = item.itemId;
 				instance_destroy(item);
 				});
 				
-				_checkUp(itemConsumer, function(iConsumer) {
-				if(iConsumer.itemNeededId == itemHeld) {
-					iConsumer.consume(itemHeld);
-					itemHeld = noItemId;
-				}
+				_checkUp(interactable, function(iactable) {
+					iactable.interact(self);
 				});
 				
 				break;
 				
 			case FACEDOWN:
-				_checkDown(itemNull, function(item) {
+				_checkDown(inventoryItem, function(item) {
 				itemHeld = item.itemId;
 				instance_destroy(item);
 				});
 				
-				_checkDown(itemConsumer, function(iConsumer) {
-				if(iConsumer.itemNeededId == itemHeld) {
-					iConsumer.consume(itemHeld);
-					itemHeld = noItemId;
-				}
+				_checkDown(interactable, function(iactable) {
+					iactable.interact(self);
 				});
 				
 				break;
