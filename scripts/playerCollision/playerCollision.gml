@@ -45,12 +45,20 @@ function playerCollision(){
 		hp -= 1;
 		_xsp = -2 *_xsp;
 		getHit();
+		if(hp == 0){
+			instance_create_depth(0,0,-9999,transition);
+			room_goto(EndGame)
+		}
 	}
 	
 	if(place_meeting(x, y + _ysp, damageDealer)) {
 		hp -= 1;
 		_ysp = -2 * _ysp;
 		getHit();
+		if(hp == 0){
+			instance_create_depth(0,0,-9999,transition);
+			room_goto(EndGame)
+		}
 	}
 	
 	// update
