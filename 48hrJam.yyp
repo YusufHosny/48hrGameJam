@@ -113,12 +113,12 @@
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"MainMenu","path":"rooms/MainMenu/MainMenu.yy",},},
+    {"roomId":{"name":"groundFloor","path":"rooms/groundFloor/groundFloor.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"EndGame","path":"rooms/EndGame/EndGame.yy",},},
     {"roomId":{"name":"finalBossRoom","path":"rooms/finalBossRoom/finalBossRoom.yy",},},
     {"roomId":{"name":"floor4","path":"rooms/floor4/floor4.yy",},},
     {"roomId":{"name":"ChemistryLab","path":"rooms/ChemistryLab/ChemistryLab.yy",},},
-    {"roomId":{"name":"groundFloor","path":"rooms/groundFloor/groundFloor.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
