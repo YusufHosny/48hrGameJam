@@ -30,6 +30,7 @@
     {"name":"damageDealer","order":14,"path":"objects/damageDealer/damageDealer.yy",},
     {"name":"acid","order":13,"path":"objects/acid/acid.yy",},
     {"name":"itemApple","order":12,"path":"objects/itemApple/itemApple.yy",},
+    {"name":"oCamera","order":26,"path":"objects/oCamera/oCamera.yy",},
     {"name":"baseBottle","order":10,"path":"objects/baseBottle/baseBottle.yy",},
     {"name":"Player","order":11,"path":"objects/Player/Player.yy",},
     {"name":"oText","order":9,"path":"objects/oText/oText.yy",},
