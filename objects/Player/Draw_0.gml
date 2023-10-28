@@ -19,4 +19,4 @@ for(var i = 1; i <= 3; i++) {
 
 surface_reset_target();
 gpu_set_blendmode(bm_normal);
-draw_surface(dark, 0, 0);
+draw_surface(dark, camera_get_view_x(view_camera[0]), camera_get_view_y(view_camera[0]));
