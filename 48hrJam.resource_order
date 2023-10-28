@@ -50,7 +50,6 @@
     {"name":"sHeart","order":7,"path":"sprites/sHeart/sHeart.yy",},
     {"name":"sTextBoxBg","order":17,"path":"sprites/sTextBoxBg/sTextBoxBg.yy",},
     {"name":"Sign","order":17,"path":"objects/Sign/Sign.yy",},
-    {"name":"PlayerStateLocked","order":8,"path":"scripts/PlayerStateLocked/PlayerStateLocked.yy",},
     {"name":"oTextQueued","order":20,"path":"objects/oTextQueued/oTextQueued.yy",},
     {"name":"sMonke","order":3,"path":"sprites/sMonke/sMonke.yy",},
     {"name":"MainMenu","order":1,"path":"rooms/MainMenu/MainMenu.yy",},

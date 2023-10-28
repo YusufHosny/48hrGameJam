@@ -70,7 +70,6 @@
     {"id":{"name":"sHeart","path":"sprites/sHeart/sHeart.yy",},},
     {"id":{"name":"sTextBoxBg","path":"sprites/sTextBoxBg/sTextBoxBg.yy",},},
     {"id":{"name":"Sign","path":"objects/Sign/Sign.yy",},},
-    {"id":{"name":"PlayerStateLocked","path":"scripts/PlayerStateLocked/PlayerStateLocked.yy",},},
     {"id":{"name":"oTextQueued","path":"objects/oTextQueued/oTextQueued.yy",},},
     {"id":{"name":"sMonke","path":"sprites/sMonke/sMonke.yy",},},
     {"id":{"name":"MainMenu","path":"rooms/MainMenu/MainMenu.yy",},},

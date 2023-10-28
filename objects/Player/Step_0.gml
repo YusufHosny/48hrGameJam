@@ -33,4 +33,5 @@ if(iFrames > 0) {
 }
 else {
 	sprite_index = sPlayer;
+	playerLocked = false
 }
