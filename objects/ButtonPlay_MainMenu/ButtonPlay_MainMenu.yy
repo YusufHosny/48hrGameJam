@@ -10,8 +10,8 @@
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"MainMenuButton","path":"objects/MainMenuButton/MainMenuButton.yy",},"propertyId":{"name":"Button_text","path":"objects/MainMenuButton/MainMenuButton.yy",},"value":"",},
   ],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "menus",
+    "path": "folders/Objects/menus.yy",
   },
   "parentObjectId": {
     "name": "MainMenuButton",

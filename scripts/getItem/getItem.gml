@@ -7,5 +7,11 @@ function getItem(itemId){
 		case appleId:
 			return itemApple;
 			break;
+		case baseId:
+			return baseBottle;
+			break;
+		case acidId:
+			return acidBottle;
+			break;
 	}
 }

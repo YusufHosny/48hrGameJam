@@ -1,0 +1,2 @@
+nextRoom = spiral1;
+

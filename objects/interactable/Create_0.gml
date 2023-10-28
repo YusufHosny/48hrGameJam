@@ -1,5 +1,5 @@
 itemNeededId = noItemId;
 
-interact = function(_itemId) {
+interact = function(player) {
 	// consume item here;
 }

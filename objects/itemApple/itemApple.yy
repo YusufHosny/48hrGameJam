@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "testObjs",
+    "path": "folders/Objects/testObjs.yy",
   },
   "parentObjectId": {
     "name": "inventoryItem",
