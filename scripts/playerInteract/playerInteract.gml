@@ -30,7 +30,7 @@ function playerInteract(){
 	
 	
 	// interact button
-	var kInteract = keyboard_check(ord("E"));
+	var kInteract = keyboard_check_pressed(ord("E"));
 
 	// check button triggered interactions
 	if(kInteract) {
@@ -38,8 +38,7 @@ function playerInteract(){
 			case FACELEFT:
 				// check for item
 				_checkLeft(inventoryItem, function(item) {
-				itemHeld = item.itemId;
-				instance_destroy(item);
+					pickUpItem(item);
 				});
 			
 				// check for interactable (specific item consumer)
@@ -52,8 +51,7 @@ function playerInteract(){
 				
 			case FACERIGHT:
 				_checkRight(inventoryItem, function(item) {
-				itemHeld = item.itemId;
-				instance_destroy(item);
+					pickUpItem(item);
 				});
 				
 				_checkRight(interactable, function(iactable) {
@@ -64,8 +62,7 @@ function playerInteract(){
 				
 			case FACEUP:
 				_checkUp(inventoryItem, function(item) {
-				itemHeld = item.itemId;
-				instance_destroy(item);
+					pickUpItem(item);
 				});
 				
 				_checkUp(interactable, function(iactable) {
@@ -76,8 +73,7 @@ function playerInteract(){
 				
 			case FACEDOWN:
 				_checkDown(inventoryItem, function(item) {
-				itemHeld = item.itemId;
-				instance_destroy(item);
+					pickUpItem(item);
 				});
 				
 				_checkDown(interactable, function(iactable) {
