@@ -50,6 +50,9 @@
     {"id":{"name":"tCol","path":"tilesets/tCol/tCol.yy",},},
     {"id":{"name":"sSign","path":"sprites/sSign/sSign.yy",},},
     {"id":{"name":"darknessShader","path":"shaders/darknessShader/darknessShader.yy",},},
+    {"id":{"name":"Electronic_Run","path":"rooms/Electronic_Run/Electronic_Run.yy",},},
+    {"id":{"name":"Vincent_Run_3rdLevel","path":"objects/Vincent_Run_3rdLevel/Vincent_Run_3rdLevel.yy",},},
+    {"id":{"name":"Vincent","path":"sprites/Vincent/Vincent.yy",},},
     {"id":{"name":"sMonkeBanana","path":"sprites/sMonkeBanana/sMonkeBanana.yy",},},
     {"id":{"name":"playerInteract","path":"scripts/playerInteract/playerInteract.yy",},},
     {"id":{"name":"sAcid","path":"sprites/sAcid/sAcid.yy",},},
@@ -85,6 +88,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
+    {"roomId":{"name":"Electronic_Run","path":"rooms/Electronic_Run/Electronic_Run.yy",},},
     {"roomId":{"name":"MainMenu","path":"rooms/MainMenu/MainMenu.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"EndGame","path":"rooms/EndGame/EndGame.yy",},},
