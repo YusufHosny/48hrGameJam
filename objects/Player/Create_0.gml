@@ -2,4 +2,11 @@
 sp = 10;
 
 // held item
-itemHeld = null;
+itemHeld = noItemId;
+
+// collision grid
+colMap = layer_tilemap_get_id(layer_get_id("col"));
+
+// current motion value for each frame
+_xsp = 0;
+_ysp = 0;

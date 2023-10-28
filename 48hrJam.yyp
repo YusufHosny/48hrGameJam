@@ -35,11 +35,14 @@
   },
   "resources": [
     {"id":{"name":"sBanana","path":"sprites/sBanana/sBanana.yy",},},
-    {"id":{"name":"item","path":"objects/item/item.yy",},},
+    {"id":{"name":"MACROS","path":"scripts/MACROS/MACROS.yy",},},
+    {"id":{"name":"itemNull","path":"objects/itemNull/itemNull.yy",},},
+    {"id":{"name":"playerCollision","path":"scripts/playerCollision/playerCollision.yy",},},
+    {"id":{"name":"tCol","path":"tilesets/tCol/tCol.yy",},},
+    {"id":{"name":"sCol","path":"sprites/sCol/sCol.yy",},},
     {"id":{"name":"Player","path":"objects/Player/Player.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
     {"id":{"name":"itemBanana","path":"objects/itemBanana/itemBanana.yy",},},
-    {"id":{"name":"heldItem","path":"objects/heldItem/heldItem.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [

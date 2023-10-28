@@ -18,9 +18,11 @@
   ],
   "ResourceOrderSettings": [
     {"name":"sBanana","order":4,"path":"sprites/sBanana/sBanana.yy",},
-    {"name":"item","order":2,"path":"objects/item/item.yy",},
+    {"name":"MACROS","order":2,"path":"scripts/MACROS/MACROS.yy",},
+    {"name":"itemNull","order":2,"path":"objects/itemNull/itemNull.yy",},
+    {"name":"playerCollision","order":1,"path":"scripts/playerCollision/playerCollision.yy",},
+    {"name":"sCol","order":1,"path":"sprites/sCol/sCol.yy",},
     {"name":"sPlayer","order":1,"path":"sprites/sPlayer/sPlayer.yy",},
     {"name":"itemBanana","order":3,"path":"objects/itemBanana/itemBanana.yy",},
-    {"name":"heldItem","order":5,"path":"objects/heldItem/heldItem.yy",},
   ],
 }
