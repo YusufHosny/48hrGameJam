@@ -1,16 +1,16 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "groundFloor",
+  "name": "spiral1",
   "creationCodeFile": "",
   "inheritCode": false,
   "inheritCreationOrder": false,
   "inheritLayers": false,
   "instanceCreationOrder": [
-    {"name":"inst_58B561DD","path":"rooms/groundFloor/groundFloor.yy",},
-    {"name":"inst_74174347","path":"rooms/groundFloor/groundFloor.yy",},
-    {"name":"inst_1C88F9A7","path":"rooms/groundFloor/groundFloor.yy",},
-    {"name":"inst_36A36278","path":"rooms/groundFloor/groundFloor.yy",},
+    {"name":"inst_58B561DD","path":"rooms/spiral1/spiral1.yy",},
+    {"name":"inst_74174347","path":"rooms/spiral1/spiral1.yy",},
+    {"name":"inst_1C88F9A7","path":"rooms/spiral1/spiral1.yy",},
+    {"name":"inst_36A36278","path":"rooms/spiral1/spiral1.yy",},
   ],
   "isDnd": false,
   "layers": [
