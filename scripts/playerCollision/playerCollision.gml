@@ -43,7 +43,7 @@ function playerCollision(){
 	// damage dealer checks
 	if(place_meeting(x + _xsp, y, damageDealer)) {
 		hp -= 1;
-		_xsp = -2 *_xsp;
+		_xsp = -4 *_xsp;
 		getHit();
 		if(hp == 0){
 			instance_create_depth(0,0,-9999,transition);
@@ -53,7 +53,7 @@ function playerCollision(){
 	
 	if(place_meeting(x, y + _ysp, damageDealer)) {
 		hp -= 1;
-		_ysp = -2 * _ysp;
+		_ysp = -4 * _ysp;
 		getHit();
 		if(hp == 0){
 			instance_create_depth(0,0,-9999,transition);

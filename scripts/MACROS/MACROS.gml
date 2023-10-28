@@ -12,4 +12,5 @@ function MACROS(){
     
     #macro RESOLUTION_W 320
     #macro RESOLUTION_H 214
+	#macro DARKNESS 0.7
 }
