@@ -1,11 +1,11 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "RobotArm2_Skin",
-  "bbox_bottom": 52,
-  "bbox_left": 10,
-  "bbox_right": 49,
-  "bbox_top": 8,
+  "name": "RobotArm2_SkinUP",
+  "bbox_bottom": 55,
+  "bbox_left": 13,
+  "bbox_right": 52,
+  "bbox_top": 10,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -33,7 +33,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "RobotArm2_Skin",
+    "name": "RobotArm2_SkinUP",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -55,8 +55,8 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"55b09610-b598-4174-9276-1ae17d7fb72e","path":"sprites/RobotArm2_Skin/RobotArm2_Skin.yy",},},},"Disabled":false,"id":"540b3942-a545-4b9b-9cc4-31be431e4af0","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"71a717bc-7c02-4974-8b77-a5311e82defd","path":"sprites/RobotArm2_Skin/RobotArm2_Skin.yy",},},},"Disabled":false,"id":"260c2929-092e-4299-86d0-050a9927161c","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"55b09610-b598-4174-9276-1ae17d7fb72e","path":"sprites/RobotArm2_SkinUP/RobotArm2_SkinUP.yy",},},},"Disabled":false,"id":"c4cbdfef-e65e-4e6a-85fb-22fa7ccc40f8","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"71a717bc-7c02-4974-8b77-a5311e82defd","path":"sprites/RobotArm2_SkinUP/RobotArm2_SkinUP.yy",},},},"Disabled":false,"id":"2e4e17ec-e7cd-4cc0-a376-83033b51d3a0","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
