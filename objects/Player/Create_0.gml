@@ -13,3 +13,5 @@ _ysp = 0;
 
 // direction facing
 dir = FACELEFT;
+
+// darkness surface TODO

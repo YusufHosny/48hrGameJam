@@ -35,10 +35,12 @@
   },
   "resources": [
     {"id":{"name":"sBanana","path":"sprites/sBanana/sBanana.yy",},},
+    {"id":{"name":"sBackground","path":"sprites/sBackground/sBackground.yy",},},
     {"id":{"name":"MACROS","path":"scripts/MACROS/MACROS.yy",},},
     {"id":{"name":"itemNull","path":"objects/itemNull/itemNull.yy",},},
     {"id":{"name":"playerCollision","path":"scripts/playerCollision/playerCollision.yy",},},
     {"id":{"name":"tCol","path":"tilesets/tCol/tCol.yy",},},
+    {"id":{"name":"darknessShader","path":"shaders/darknessShader/darknessShader.yy",},},
     {"id":{"name":"sMonkeBanana","path":"sprites/sMonkeBanana/sMonkeBanana.yy",},},
     {"id":{"name":"itemConsumer","path":"objects/itemConsumer/itemConsumer.yy",},},
     {"id":{"name":"playerInteract","path":"scripts/playerInteract/playerInteract.yy",},},
