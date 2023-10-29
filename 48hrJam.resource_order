@@ -24,6 +24,7 @@
     {"name":"ButtonExit_MainMenu","order":20,"path":"objects/ButtonExit_MainMenu/ButtonExit_MainMenu.yy",},
     {"name":"inventoryItem","order":19,"path":"objects/inventoryItem/inventoryItem.yy",},
     {"name":"baseBox","order":18,"path":"objects/baseBox/baseBox.yy",},
+    {"name":"SecondFloorCorridor","order":2,"path":"rooms/SecondFloorCorridor/SecondFloorCorridor.yy",},
     {"name":"interactable","order":17,"path":"objects/interactable/interactable.yy",},
     {"name":"vincentBoss","order":16,"path":"objects/vincentBoss/vincentBoss.yy",},
     {"name":"monke","order":15,"path":"objects/monke/monke.yy",},
