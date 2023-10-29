@@ -48,6 +48,7 @@
     {"name":"RobotArm1","order":1,"path":"objects/RobotArm1/RobotArm1.yy",},
     {"name":"acidBottle","order":1,"path":"objects/acidBottle/acidBottle.yy",},
     {"name":"d_groundFloor","order":1,"path":"objects/d_groundFloor/d_groundFloor.yy",},
+    {"name":"Evo","order":4,"path":"sprites/Evo/Evo.yy",},
     {"name":"sBoxB","order":1,"path":"sprites/sBoxB/sBoxB.yy",},
     {"name":"transition","order":4,"path":"objects/transition/transition.yy",},
     {"name":"resetButton","order":1,"path":"objects/resetButton/resetButton.yy",},

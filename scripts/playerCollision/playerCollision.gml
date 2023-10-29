@@ -68,6 +68,7 @@ function playerCollision(){
 }
 
 function getHit() {
+	audio_play_sound(HurtSong, 1, false);
 	time1 = current_time
 	iFrames = 0.5 * game_get_speed(gamespeed_fps);
 	sprite_index = sPlayerBlink;
