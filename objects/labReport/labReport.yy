@@ -1,19 +1,19 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "d_spiral3",
+  "name": "labReport",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "doors",
-    "path": "folders/Objects/doors.yy",
+    "name": "floor2",
+    "path": "folders/Objects/floor2.yy",
   },
   "parentObjectId": {
-    "name": "door",
-    "path": "objects/door/door.yy",
+    "name": "inventoryItem",
+    "path": "objects/inventoryItem/inventoryItem.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sBackground",
-    "path": "sprites/sBackground/sBackground.yy",
+    "name": "sReport",
+    "path": "sprites/sReport/sReport.yy",
   },
   "spriteMaskId": null,
   "visible": true,

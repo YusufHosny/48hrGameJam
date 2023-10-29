@@ -31,8 +31,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "sSpiral2Wall",
-    "path": "sprites/sSpiral2Wall/sSpiral2Wall.yy",
+    "name": "Evo",
+    "path": "sprites/Evo/Evo.yy",
   },
   "spriteMaskId": null,
   "visible": true,
