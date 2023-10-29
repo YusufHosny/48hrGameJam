@@ -2,7 +2,7 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sFEEN",
-  "bbox_bottom": 34,
+  "bbox_bottom": 51,
   "bbox_left": 9,
   "bbox_right": 22,
   "bbox_top": 9,
