@@ -67,6 +67,7 @@
     {"id":{"name":"playerCollision","path":"scripts/playerCollision/playerCollision.yy",},},
     {"id":{"name":"baseBox","path":"objects/baseBox/baseBox.yy",},},
     {"id":{"name":"tCol","path":"tilesets/tCol/tCol.yy",},},
+    {"id":{"name":"SecondFloorCorridor","path":"rooms/SecondFloorCorridor/SecondFloorCorridor.yy",},},
     {"id":{"name":"sSign","path":"sprites/sSign/sSign.yy",},},
     {"id":{"name":"darknessShader","path":"shaders/darknessShader/darknessShader.yy",},},
     {"id":{"name":"SciFiSet","path":"tilesets/SciFiSet/SciFiSet.yy",},},
@@ -144,6 +145,7 @@
     {"roomId":{"name":"finalBossRoom","path":"rooms/finalBossRoom/finalBossRoom.yy",},},
     {"roomId":{"name":"Roof","path":"rooms/Roof/Roof.yy",},},
     {"roomId":{"name":"ChemistryLab","path":"rooms/ChemistryLab/ChemistryLab.yy",},},
+    {"roomId":{"name":"SecondFloorCorridor","path":"rooms/SecondFloorCorridor/SecondFloorCorridor.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
