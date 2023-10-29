@@ -2,9 +2,9 @@ hpPlayer = 50;
 
 hpBoss = 50;
 
-playerAttacks = ["fuck outta here", "let me focus vincent", "not now vincent", "PORCO DIOOO"];
+playerAttacks = ["Mamma MIAA", "GIOVANNI SPECIALITY", "In the name of NAPOLI", "SUIIIIII"];
 
-bossAttacks = ["YO ARE SOO MEANNN", "POCCO POCCO", "MEOW", "YOO ARE DISGUSTING"];
+bossAttacks = ["EL sombrero", "POCCO POCCO", "yoink", "POCCO"];
 
 turnPlayer = false;
 wait = false;

@@ -2,7 +2,7 @@
 
 interact = function(player) {
 	if(!(global.canpass2a)) {
-		NewTextBox("HOLY FUCK I FORGOT TO SUBMIT MY \n LAB REPORT IN THE EM LAB");
+		NewTextBox("OH NOOOO!! I FORGOT TO SUBMIT MY \n LAB REPORT IN THE MECHANICS LAB");
 		NewTextBox("CAN YOU SUBMIT IT FOR ME PLEASE?");
 	}
 	else {
