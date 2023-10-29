@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Monster",
+  "name": "Vincent_Run_3rdLevel",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
@@ -32,8 +32,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "MOnsterSkin",
-    "path": "sprites/MOnsterSkin/MOnsterSkin.yy",
+    "name": "Vincent",
+    "path": "sprites/Vincent/Vincent.yy",
   },
   "spriteMaskId": null,
   "visible": true,

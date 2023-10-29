@@ -6,3 +6,6 @@ playerAttacks = ["fuck outta here", "let me focus vincent", "not now vincent", "
 
 bossAttacks = ["YO ARE SOO MEANNN", "POCCO POCCO", "MEOW", "YOO ARE DISGUSTING"];
 
+turnPlayer = false;
+
+selectedAttack = 0;

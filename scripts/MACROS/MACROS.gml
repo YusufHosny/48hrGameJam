@@ -12,5 +12,7 @@ function MACROS(){
     
     #macro RESOLUTION_W 320
     #macro RESOLUTION_H 240
-	#macro DARKNESS 0.7
+	#macro DARKNESS 0.9
+	
+	#macro PLAYERNAME "GIOVANNI"
 }

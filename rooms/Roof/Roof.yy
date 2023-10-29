@@ -1,13 +1,13 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "floor4",
+  "name": "Roof",
   "creationCodeFile": "",
   "inheritCode": false,
   "inheritCreationOrder": false,
   "inheritLayers": false,
   "instanceCreationOrder": [
-    {"name":"inst_5A9C58E5","path":"rooms/floor4/floor4.yy",},
+    {"name":"inst_5A9C58E5","path":"rooms/Roof/Roof.yy",},
   ],
   "isDnd": false,
   "layers": [

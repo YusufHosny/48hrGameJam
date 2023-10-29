@@ -68,7 +68,12 @@ function playerCollision(){
 }
 
 function getHit() {
+	time1 = current_time
 	iFrames = 0.5 * game_get_speed(gamespeed_fps);
 	sprite_index = sPlayerBlink;
-	Player.playerLocked = true
+	while(current_time-time1 < 0.2){
+		Player.playerLocked = true}
+	Player.playerLocked = false
+	
+	
 }
