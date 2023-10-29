@@ -88,6 +88,7 @@
     {"id":{"name":"vincentBoss","path":"objects/vincentBoss/vincentBoss.yy",},},
     {"id":{"name":"sVincentBoss","path":"sprites/sVincentBoss/sVincentBoss.yy",},},
     {"id":{"name":"d_chemLab","path":"objects/d_chemLab/d_chemLab.yy",},},
+    {"id":{"name":"credits","path":"rooms/credits/credits.yy",},},
     {"id":{"name":"monke","path":"objects/monke/monke.yy",},},
     {"id":{"name":"fText","path":"fonts/fText/fText.yy",},},
     {"id":{"name":"RobotArm2_SkinUP","path":"sprites/RobotArm2_SkinUP/RobotArm2_SkinUP.yy",},},
@@ -120,6 +121,7 @@
     {"id":{"name":"itemBanana","path":"objects/itemBanana/itemBanana.yy",},},
     {"id":{"name":"RobotArm1","path":"objects/RobotArm1/RobotArm1.yy",},},
     {"id":{"name":"switchRoom","path":"scripts/switchRoom/switchRoom.yy",},},
+    {"id":{"name":"creditsController","path":"objects/creditsController/creditsController.yy",},},
     {"id":{"name":"acidBottle","path":"objects/acidBottle/acidBottle.yy",},},
     {"id":{"name":"RoofWin","path":"rooms/RoofWin/RoofWin.yy",},},
     {"id":{"name":"d_groundFloor","path":"objects/d_groundFloor/d_groundFloor.yy",},},
@@ -138,6 +140,7 @@
     {"id":{"name":"Roof","path":"rooms/Roof/Roof.yy",},},
   ],
   "RoomOrderNodes": [
+    {"roomId":{"name":"credits","path":"rooms/credits/credits.yy",},},
     {"roomId":{"name":"MainMenu","path":"rooms/MainMenu/MainMenu.yy",},},
     {"roomId":{"name":"ElectronicsLab","path":"rooms/ElectronicsLab/ElectronicsLab.yy",},},
     {"roomId":{"name":"spiral1","path":"rooms/spiral1/spiral1.yy",},},
