@@ -30,10 +30,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
+  "spriteId": null,
+  "spriteMaskId": {
     "name": "sBackground",
     "path": "sprites/sBackground/sBackground.yy",
   },
-  "spriteMaskId": null,
   "visible": true,
 }

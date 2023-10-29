@@ -1,2 +1,0 @@
-nextRoom = EMLevel;
-

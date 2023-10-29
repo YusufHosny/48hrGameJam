@@ -8,7 +8,7 @@
     "SerialiseWidth": 0,
     "TileSerialiseData": [],
   },
-  "out_columns": 1,
+  "out_columns": 2,
   "out_tilehborder": 2,
   "out_tilevborder": 2,
   "parent": {
@@ -24,10 +24,13 @@
     "name": "Default",
     "path": "texturegroups/Default",
   },
-  "tile_count": 1,
+  "tile_count": 4,
   "tileAnimation": {
     "FrameData": [
       0,
+      1,
+      2,
+      3,
     ],
     "SerialiseFrameCount": 1,
   },

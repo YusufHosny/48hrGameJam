@@ -30,10 +30,8 @@ if(!playerLocked) {
 // invulnerability check/ decrease
 if(iFrames > 0) {
 	iFrames--;
-	if(iFrames < 0.5*game_get_speed(gamespeed_fps)) {
-		playerLocked = false;
-	}
 }
 else {
 	sprite_index = sPlayer;
+
 }

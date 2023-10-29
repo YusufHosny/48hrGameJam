@@ -13,8 +13,5 @@ function getItem(itemId){
 		case acidId:
 			return acidBottle;
 			break;
-		case labrepId:
-			return labReport;
-			break;
 	}
 }

@@ -1,7 +1,23 @@
-spd = 0.5;
+dir = FACERIGHT
+MAXD = 250
+distance = MAXD
+spd = 2
 
-started = false;
 
-NewTextBox("AHDSAGAHGAGAAGAGAHA");
-NewTextBox("IM GONNA GET YOU", function() {started = true;});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

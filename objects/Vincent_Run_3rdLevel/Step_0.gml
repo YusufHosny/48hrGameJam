@@ -1,5 +1,39 @@
-if(started) {
-	y = Player.y;
-	x+=2;
-	distance -= spd;
-}
+y = Player.y
+
+x+=2
+distance -= spd;
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
