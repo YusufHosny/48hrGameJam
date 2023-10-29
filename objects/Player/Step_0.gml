@@ -17,6 +17,18 @@ else if(sign(_xsp) == -1) dir = FACELEFT;
 if(sign(_ysp) == 1) dir = FACEDOWN;
 else if(sign(_ysp) == -1) dir = FACEUP;
 
+// movement sound
+var moving = (_xsp != 0 || _ysp != 0);
+ //sound
+if(moving && !snd) {
+	snd = true;
+	audio_play_sound(walkingSound, 0, true);
+}
+else if(!moving) {
+	audio_stop_sound(walkingSound);
+	snd = false
+}
+
 
 if(!playerLocked) { 
 	
@@ -35,5 +47,28 @@ if(iFrames > 0) {
 	}
 }
 else {
-	sprite_index = sPlayer;
+	// animation
+	image_xscale = scl;
+	switch(dir) {
+		case FACEUP:
+			if(moving) sprite_index = sPlayerWB;
+			else sprite_index = sPlayerIB;
+			break;
+		
+		case FACEDOWN:
+			if(moving) sprite_index = sPlayerWF;
+			else sprite_index = sPlayerIF;
+			break;
+		
+		case FACELEFT:
+			if(moving) sprite_index = sPlayerWS;
+			else sprite_index = sPlayerIS;
+			break;
+		
+		case FACERIGHT:
+			if(moving) sprite_index = sPlayerWS;
+			else sprite_index = sPlayerIS;
+			image_xscale = -scl;
+			break;
+	}
 }

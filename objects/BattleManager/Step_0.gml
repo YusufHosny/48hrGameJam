@@ -15,7 +15,7 @@ handleTurn();
 if(tBlinkP > 0) {
 	tBlinkP--;
 	pObj.sprite_index = sPlayerBlinkShake;
-} else pObj.sprite_index = sPlayer;
+} else pObj.sprite_index = sPlayerIB;
 
 if(tBlinkB > 0) {
 	tBlinkB--;
@@ -26,7 +26,7 @@ if(tBlinkB > 0) {
 // win cons
 if(hpBoss <= 0) {
 	// animation??
-	switchRoom(RoofWin);
+	switchRoom(credits);
 
 }
 else if(hpPlayer <= 0) {

@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sPlayer",
-    "path": "sprites/sPlayer/sPlayer.yy",
+    "name": "sPlayerIB",
+    "path": "sprites/sPlayerIB/sPlayerIB.yy",
   },
   "spriteMaskId": null,
   "visible": true,

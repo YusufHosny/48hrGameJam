@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "TA",
-    "path": "sprites/TA/TA.yy",
+    "name": "sTA",
+    "path": "sprites/sTA/sTA.yy",
   },
   "spriteMaskId": null,
   "visible": true,

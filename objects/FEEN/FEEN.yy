@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sFEEN",
-    "path": "sprites/sFEEN/sFEEN.yy",
+    "name": "sFien",
+    "path": "sprites/sFien/sFien.yy",
   },
   "spriteMaskId": null,
   "visible": true,

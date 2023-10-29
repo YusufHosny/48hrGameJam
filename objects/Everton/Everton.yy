@@ -31,8 +31,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "Evo",
-    "path": "sprites/Evo/Evo.yy",
+    "name": "sEv",
+    "path": "sprites/sEv/sEv.yy",
   },
   "spriteMaskId": null,
   "visible": true,

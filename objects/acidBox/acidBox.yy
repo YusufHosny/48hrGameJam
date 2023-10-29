@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sBoxA",
-    "path": "sprites/sBoxA/sBoxA.yy",
+    "name": "trash_blue",
+    "path": "sprites/trash_blue/trash_blue.yy",
   },
   "spriteMaskId": null,
   "visible": true,

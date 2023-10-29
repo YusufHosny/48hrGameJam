@@ -2,7 +2,7 @@ hpPlayer = 50;
 
 hpBoss = 50;
 
-playerAttacks = ["Mamma MIAA", "GIOVANNI SPECIALITY", "In the name of NAPOLI", "SUIIIIII"];
+playerAttacks = ["Mamma MIAA", "GIOVANNI SPECIALITY", "by NAPOLI", "SUIIIIII"];
 
 bossAttacks = ["EL sombrero", "POCCO POCCO", "yoink", "POCCO"];
 

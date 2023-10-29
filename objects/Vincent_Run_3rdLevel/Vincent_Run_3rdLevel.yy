@@ -32,8 +32,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Vincent",
-    "path": "sprites/Vincent/Vincent.yy",
+    "name": "sChase",
+    "path": "sprites/sChase/sChase.yy",
   },
   "spriteMaskId": null,
   "visible": true,

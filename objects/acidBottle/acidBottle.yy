@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sBottle",
-    "path": "sprites/sBottle/sBottle.yy",
+    "name": "sVialA",
+    "path": "sprites/sVialA/sVialA.yy",
   },
   "spriteMaskId": null,
   "visible": true,
