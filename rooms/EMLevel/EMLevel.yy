@@ -44,7 +44,7 @@
 -2147483648,3,0,30,25,-9,-2147483648,-2,0,-29,-2147483648,3,0,30,25,-9,-2147483648,1,0,-30,-2147483648,3,0,30,25,-7,-2147483648,-3,0,-30,-2147483648,3,0,30,25,-6,-2147483648,-2,0,-32,-2147483648,3,0,
 30,25,-4,-2147483648,-3,0,-20,-2147483648,-3,0,-10,-2147483648,3,0,30,25,-4,-2147483648,-37,0,2,30,25,-40,-2147483648,3,0,30,25,-40,-2147483648,3,0,30,25,-40,-2147483648,3,0,30,25,-40,-2147483648,
 2,0,30,-42,2,1,30,],"TileDataFormat":1,},"tilesetId":{"name":"Bricks","path":"tilesets/Bricks/Bricks.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
-    {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
+    {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4282211430,"depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
   "parent": {
     "name": "Rooms",
