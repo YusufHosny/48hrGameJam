@@ -153,6 +153,8 @@
     {"id":{"name":"creditsController","path":"objects/creditsController/creditsController.yy",},},
     {"id":{"name":"acidBottle","path":"objects/acidBottle/acidBottle.yy",},},
     {"id":{"name":"RoofWin","path":"rooms/RoofWin/RoofWin.yy",},},
+    {"id":{"name":"d_groundFloor","path":"objects/d_groundFloor/d_groundFloor.yy",},},
+    {"id":{"name":"Evo","path":"sprites/Evo/Evo.yy",},},
     {"id":{"name":"d_spiral1","path":"objects/d_spiral1/d_spiral1.yy",},},
     {"id":{"name":"sBoxB","path":"sprites/sBoxB/sBoxB.yy",},},
     {"id":{"name":"transition","path":"objects/transition/transition.yy",},},
