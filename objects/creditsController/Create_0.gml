@@ -11,3 +11,7 @@ t = -600;
 
 
 xpos = display_get_gui_width() * 0.25;
+
+
+jumpscare = true;
+t2 = 1 * game_get_speed(gamespeed_fps);

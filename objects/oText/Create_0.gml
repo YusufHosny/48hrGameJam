@@ -10,5 +10,7 @@ x2Target = RESOLUTION_W;
 lerpProgress =0;
 textProgress =0;
 
+audio_play_sound(textBoxOST, 0, true);
+
 
 
