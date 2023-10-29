@@ -78,6 +78,7 @@
     {"id":{"name":"sMonkeBanana","path":"sprites/sMonkeBanana/sMonkeBanana.yy",},},
     {"id":{"name":"playerInteract","path":"scripts/playerInteract/playerInteract.yy",},},
     {"id":{"name":"tWall","path":"tilesets/tWall/tWall.yy",},},
+    {"id":{"name":"TA","path":"sprites/TA/TA.yy",},},
     {"id":{"name":"sAcid","path":"sprites/sAcid/sAcid.yy",},},
     {"id":{"name":"interactable","path":"objects/interactable/interactable.yy",},},
     {"id":{"name":"sFloor","path":"sprites/sFloor/sFloor.yy",},},
