@@ -4,6 +4,7 @@ draw_self();
 
 if(!surface_exists(dark)) {
 	dark = surface_create(1366, 768);
+	gpu_set_depth(-999);
 }
 surface_set_target(dark);
 
