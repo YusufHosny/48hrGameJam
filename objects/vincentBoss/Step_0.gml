@@ -1,8 +1,8 @@
-timer--
-
-if(timer < 0) {
-	// go to next room
-	switchRoom(finalBossRoom);
+if(count) 
+{
+	timer--;
+	if(timer <= 0)
+	{
+		switchRoom(finalBossRoom);
+	}
 }
-
-

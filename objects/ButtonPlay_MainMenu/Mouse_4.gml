@@ -1,1 +1,1 @@
-switchRoom(spiral1);
+switchRoom(Roof);
