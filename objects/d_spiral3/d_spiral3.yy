@@ -1,20 +1,19 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Vincent_Run_3rdLevel",
+  "name": "d_spiral3",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Rooms",
-    "path": "folders/Rooms.yy",
+    "name": "doors",
+    "path": "folders/Objects/doors.yy",
   },
   "parentObjectId": {
-    "name": "damageDealer",
-    "path": "objects/damageDealer/damageDealer.yy",
+    "name": "door",
+    "path": "objects/door/door.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -31,10 +30,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "Vincent",
-    "path": "sprites/Vincent/Vincent.yy",
+  "spriteId": null,
+  "spriteMaskId": {
+    "name": "sBackground",
+    "path": "sprites/sBackground/sBackground.yy",
   },
-  "spriteMaskId": null,
   "visible": true,
 }
