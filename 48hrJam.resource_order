@@ -25,7 +25,6 @@
   "ResourceOrderSettings": [
     {"name":"oGame","order":4,"path":"objects/oGame/oGame.yy",},
     {"name":"BattleManager","order":1,"path":"objects/BattleManager/BattleManager.yy",},
-    {"name":"Evo","order":7,"path":"sprites/Evo/Evo.yy",},
     {"name":"FEEN","order":5,"path":"objects/FEEN/FEEN.yy",},
     {"name":"acidBox","order":2,"path":"objects/acidBox/acidBox.yy",},
     {"name":"ButtonExit_MainMenu","order":2,"path":"objects/ButtonExit_MainMenu/ButtonExit_MainMenu.yy",},
