@@ -1,5 +1,4 @@
-/// @description Draw TextBox
-// You can write your code in this editor
+
 NineSliceBoxStretched(sTextBoxBg,x1,y1,x2,y2,background);
 draw_set_font(fText)
 draw_set_halign(fa_center);

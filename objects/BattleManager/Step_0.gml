@@ -9,22 +9,27 @@ else if(kDown) selectedAttack = min(selectedAttack + 2, 3);
 else if(kLeft && (selectedAttack == 1 || selectedAttack == 3)) selectedAttack = selectedAttack - 1;
 else if(kRight && (selectedAttack == 0 || selectedAttack == 2)) selectedAttack = selectedAttack + 1;
 
-// play move
-kInteract = keyboard_check_pressed(ord("E"));
+handleTurn();
 
-if(turnPlayer && kInteract) {
-	var dmg = string_length(playerAttacks[selectedAttack])
-	hpBoss -= dmg;
-	NewTextBox(PLAYERNAME + " used \"" + playerAttacks[selectedAttack] + "\"");
-	NewTextBox("it dealt " + string(dmg) + " damage...");
-	turnPlayer = false;
+// damage blinker
+if(tBlinkP > 0) {
+	tBlinkP--;
+	pObj.sprite_index = sPlayerBlinkShake;
+} else pObj.sprite_index = sPlayer;
+
+if(tBlinkB > 0) {
+	tBlinkB--;
+	bObj.sprite_index = sVincentBossBlink;
+} else bObj.sprite_index = sVincentBoss;
+
+
+// win cons
+if(hpBoss <= 0) {
+	// animation??
+	switchRoom(RoofWin);
+
 }
-else if(!turnPlayer)
-{
-	var atk = bossAttacks[floor(random(3.9))];
-	var dmg = string_length(atk) * 0.5;
-	hpPlayer -= dmg;
-	NewTextBox("VINCENT used \"" + atk + "\"");
-	NewTextBox("it dealt " + string(dmg) + " damage...");
-	turnPlayer = true;
+else if(hpPlayer <= 0) {
+	switchRoom(RoofLose);
+
 }
