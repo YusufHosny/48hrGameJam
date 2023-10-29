@@ -29,7 +29,7 @@ function playerCollision(){
 		_ysp = 0;
 	}
 	
-	// consumer checks
+	// interactable checks
 	if(place_meeting(x + _xsp, y, interactable)) {
 		while(!place_meeting(x+sign(_xsp), y, interactable)) x += sign(_xsp);
 		_xsp = 0;
@@ -69,12 +69,8 @@ function playerCollision(){
 
 function getHit() {
 	audio_play_sound(HurtSong, 1, false);
-	time1 = current_time
-	iFrames = 0.5 * game_get_speed(gamespeed_fps);
+	iFrames = 1 * game_get_speed(gamespeed_fps);
 	sprite_index = sPlayerBlink;
-	while(current_time-time1 < 0.2){
-		Player.playerLocked = true}
-	Player.playerLocked = false
-	
+	playerLocked = true;
 	
 }

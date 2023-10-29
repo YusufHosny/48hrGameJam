@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "d_groundFloor",
+  "name": "d_spiral3",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
@@ -30,10 +30,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
-  "spriteMaskId": {
+  "spriteId": {
     "name": "sBackground",
     "path": "sprites/sBackground/sBackground.yy",
   },
+  "spriteMaskId": null,
   "visible": true,
 }
