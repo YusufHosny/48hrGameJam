@@ -140,8 +140,8 @@
     {"id":{"name":"Roof","path":"rooms/Roof/Roof.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"credits","path":"rooms/credits/credits.yy",},},
     {"roomId":{"name":"MainMenu","path":"rooms/MainMenu/MainMenu.yy",},},
+    {"roomId":{"name":"credits","path":"rooms/credits/credits.yy",},},
     {"roomId":{"name":"ElectronicsLab","path":"rooms/ElectronicsLab/ElectronicsLab.yy",},},
     {"roomId":{"name":"spiral1","path":"rooms/spiral1/spiral1.yy",},},
     {"roomId":{"name":"EndGame","path":"rooms/EndGame/EndGame.yy",},},
