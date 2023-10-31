@@ -1,6 +1,2 @@
-/// @description Insert description here
-// You can write your code in this editor
 nextRoom = spiral2;
-
-
-
+spawn = room == spiral1 ? d_spawndef : d_EM;

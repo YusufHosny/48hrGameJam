@@ -4,6 +4,7 @@ if(count)
 	if(t1 <= 0)
 	{
 		switchRoom(finalBossRoom);
+		instance_destroy(instance_find(Player, 0));
 	}
 }
 else {

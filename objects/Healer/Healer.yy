@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sApple",
-    "path": "sprites/sApple/sApple.yy",
+    "name": "sHeartFloat",
+    "path": "sprites/sHeartFloat/sHeartFloat.yy",
   },
   "spriteMaskId": null,
   "visible": true,

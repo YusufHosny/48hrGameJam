@@ -2,23 +2,23 @@
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
   "name": "spiral2",
-  "creationCodeFile": "",
+  "creationCodeFile": "rooms/spiral2/RoomCreationCode.gml",
   "inheritCode": false,
   "inheritCreationOrder": false,
   "inheritLayers": false,
   "instanceCreationOrder": [
-    {"name":"inst_58B561DD_1","path":"rooms/spiral2/spiral2.yy",},
     {"name":"inst_1441D43F","path":"rooms/spiral2/spiral2.yy",},
     {"name":"inst_5BCD17BE","path":"rooms/spiral2/spiral2.yy",},
     {"name":"inst_1FCED055","path":"rooms/spiral2/spiral2.yy",},
+    {"name":"inst_BCFF1D1","path":"rooms/spiral2/spiral2.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1441D43F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Everton","path":"objects/Everton/Everton.yy",},"properties":[],"rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":864.0,"y":416.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5BCD17BE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"d_spiral3","path":"objects/d_spiral3/d_spiral3.yy",},"properties":[],"rotation":0.0,"scaleX":2.005826,"scaleY":0.671875,"x":800.0,"y":532.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1FCED055","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"d_EM","path":"objects/d_EM/d_EM.yy",},"properties":[],"rotation":0.0,"scaleX":0.23437501,"scaleY":1.5312499,"x":1009.0882,"y":320.00055,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_58B561DD_1","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Player","path":"objects/Player/Player.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":384.0,"y":320.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5BCD17BE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"d_spiral3","path":"objects/d_spiral3/d_spiral3.yy",},"properties":[],"rotation":0.0,"scaleX":2.005826,"scaleY":0.25,"x":864.0,"y":537.5,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1FCED055","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"d_EM","path":"objects/d_EM/d_EM.yy",},"properties":[],"rotation":0.0,"scaleX":0.23437501,"scaleY":1.5312499,"x":1017.08826,"y":367.00055,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_BCFF1D1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"d_spawndef","path":"objects/d_spawndef/d_spawndef.yy",},"properties":[],"rotation":0.0,"scaleX":0.640625,"scaleY":0.578125,"x":376.5,"y":342.5,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"col","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":24,"SerialiseWidth":43,"TileCompressedData":[
 -11,-2147483648,-4,0,-39,-2147483648,-4,0,-2,-2147483648,-6,1,-31,-2147483648,3,0,-2147483648,-2147483648,-4,1,-3,-2147483648,1,0,-4,1,-27,-2147483648,-2,0,3,-2147483648,1,1,-6,-2147483648,1,0,-3,-2147483648,-2,1,-27,

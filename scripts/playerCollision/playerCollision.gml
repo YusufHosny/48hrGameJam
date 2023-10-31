@@ -46,8 +46,8 @@ function playerCollision(){
 		_xsp = -4 *_xsp;
 		getHit();
 		if(hp == 0){
-			instance_create_depth(0,0,-9999,transition);
-			room_goto(EndGame)
+			switchRoom(EndGame);
+			instance_destroy(self);
 		}
 	}
 	
@@ -56,8 +56,8 @@ function playerCollision(){
 		_ysp = -4 * _ysp;
 		getHit();
 		if(hp == 0){
-			instance_create_depth(0,0,-9999,transition);
-			room_goto(EndGame)
+			switchRoom(EndGame);
+			instance_destroy(self);
 		}
 	}
 	

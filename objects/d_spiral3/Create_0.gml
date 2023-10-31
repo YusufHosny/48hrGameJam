@@ -1,6 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
-
 nextRoom = spiral3;
-
+spawn = d_spawndef;
 
