@@ -61,6 +61,17 @@ function playerCollision(){
 		}
 	}
 	
+	// Healer checks
+	if(place_meeting(x + _xsp, y, HealthHealer)) {
+		hp+=1;
+		global.healer1 = true;
+	}
+	
+	if(place_meeting(x, y + _ysp, HealthHealer)) {
+		hp+=1;
+		global.healer1 = true;
+	}
+	
 	// update
 	x += _xsp;
 	y += _ysp;

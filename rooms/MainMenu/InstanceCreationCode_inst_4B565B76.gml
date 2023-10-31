@@ -1,0 +1,1 @@
+global.healer1 = false
