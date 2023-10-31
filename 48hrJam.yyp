@@ -93,6 +93,7 @@
     {"id":{"name":"playerInteract","path":"scripts/playerInteract/playerInteract.yy",},},
     {"id":{"name":"tWall","path":"tilesets/tWall/tWall.yy",},},
     {"id":{"name":"TA","path":"sprites/TA/TA.yy",},},
+    {"id":{"name":"obj_fullscreen","path":"objects/obj_fullscreen/obj_fullscreen.yy",},},
     {"id":{"name":"sAcid","path":"sprites/sAcid/sAcid.yy",},},
     {"id":{"name":"trash_blue","path":"sprites/trash_blue/trash_blue.yy",},},
     {"id":{"name":"sHealthP","path":"sprites/sHealthP/sHealthP.yy",},},

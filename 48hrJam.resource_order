@@ -67,6 +67,7 @@
     {"name":"sMonkeBanana","order":13,"path":"sprites/sMonkeBanana/sMonkeBanana.yy",},
     {"name":"tWall","order":4,"path":"tilesets/tWall/tWall.yy",},
     {"name":"TA","order":14,"path":"sprites/TA/TA.yy",},
+    {"name":"obj_fullscreen","order":21,"path":"objects/obj_fullscreen/obj_fullscreen.yy",},
     {"name":"sAcid","order":15,"path":"sprites/sAcid/sAcid.yy",},
     {"name":"trash_blue","order":49,"path":"sprites/trash_blue/trash_blue.yy",},
     {"name":"sHealthP","order":37,"path":"sprites/sHealthP/sHealthP.yy",},
